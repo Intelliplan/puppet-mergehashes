@@ -1,0 +1,13 @@
+{
+  "name": "haf-mergehashes",
+  "version": "0.1.0",
+  "summary": "A module implementing a single function: merge_hashes(Hash, Hash)",
+  "author": "Henrik Feldt",
+  "description": "",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "https://github.com/haf/puppet-mergehashes",
+  "project_page": "https://github.com/haf/puppet-mergehashes",
+  "license": "MIT"
+}
